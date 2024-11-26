@@ -61,7 +61,7 @@ chmod -R 775 uploads/
 
 - 5. **Run the Project**: Place the project folder in your web server’s root directory and access it via http://localhost/phone-validator.
 
-
+---
 
 ## 🎨 User Interface
 
