@@ -41,5 +41,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-Author: [PaPaGuy Codes](https://github.com/papaguycodes)
+## Code Author
+
+- **Author**: [PaPaGuy Codes](https://github.com/papaguycodes)
 
