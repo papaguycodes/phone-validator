@@ -35,11 +35,13 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 - Tailwind CSS for a clean and responsive UI.
 
+---
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
 
 ## Code Author
 
