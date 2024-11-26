@@ -1,0 +1,19 @@
+#result {
+    font-size: 1rem;
+    color: #555;
+}
+
+#history-container .entry {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+}
+
+#history-container .entry .valid {
+    color: green;
+}
+
+#history-container .entry .invalid {
+    color: red;
+}
