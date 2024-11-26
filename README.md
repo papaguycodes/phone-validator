@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Code Author
 
-- **Author**: [PaPaGuy Codes](https://github.com/papaguycodes)
+**Author**: [PaPaGuy Codes](https://github.com/papaguycodes)
 
