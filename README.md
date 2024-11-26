@@ -22,9 +22,9 @@ A web application to validate phone numbers, check carrier details, and verify i
 
 ---
 
-## 💻 Setup Instructions
+# 💻 Setup Instructions
 
-# Prerequisites
+## Prerequisites
 
 - A web server (e.g., Apache, Nginx, or XAMPP)
 
