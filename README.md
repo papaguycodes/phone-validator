@@ -37,7 +37,7 @@ A web application to validate phone numbers, check carrier details, and verify i
 
 - 1. **Clone the repository**:
 ```
-git clone https://github.com/yourusername/phone-validator.git
+git clone https://github.com/papaguycodes/phone-validator.git
 cd phone-validator
 ```
 
